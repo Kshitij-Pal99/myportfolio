@@ -1,1 +1,1 @@
-[Click here to view the project](https://kshitij-pal99.github.io/myportfolio/)
+[Click here to view the project](https://github.com/Kshitij-Pal99/myportfolio)
